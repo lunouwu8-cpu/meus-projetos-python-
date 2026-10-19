@@ -11,7 +11,10 @@ A text-based, turn-based battle game where the player faces off against an AI op
 
 * **Tech Stack:** Python 3, `rich` library, `random`, and `time` modules.
 * **How to run:** 
-  1. Open your terminal in the repository root folder.
+  1. Open your terminal and navigate to the project folder:
+     ```bash
+     cd terminal_rpg_game
+     ```
   2. Install dependencies:
      ```bash
      pip install -r requirements.txt
@@ -28,7 +31,10 @@ A personal finance tool designed to help users manage their money by logging inc
 
 * **Tech Stack:** Python 3.
 * **How to run:**
-  1. Open your terminal in the repository root folder.
+  1. Open your terminal and navigate to the project folder:
+     ```bash
+     cd expense_tracker
+     ```
   2. Run the script:
      ```bash
      python Expense_Tracker.py
