@@ -62,7 +62,7 @@ def choose_character():
     while True:
         try:
             side = int(input("Hello! Do you want to be a [1] Villain or a [2] Hero? "))
-            if side in:
+            if side in [1,2]:
                 break
             else:
                 raise ValueError
@@ -115,7 +115,7 @@ while player.hp > 0 and enemy.hp > 0:
             try:
                 time.sleep(1)
                 choice = int(input('Choose your move: '))
-                if choice in:
+                if choice in[1,2]:
                     break
                 else:
                     raise ValueError
