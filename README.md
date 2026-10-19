@@ -1,2 +1,2 @@
 # meus-projetos-python-
-Repositório dedicado aos meus estudos de Python, focado em lógica de programação e automação de tarefas para transição de carreira.
+🐍 My Python project portfolio: featuring text-based games, automation scripts, and various backend services.
